@@ -1,0 +1,13 @@
+crewai ==0.11.0
+crewai-tools==0.2.6
+google-ai-generativelanguage==0.6.4
+google-api-core==2.19.0
+google-api-python-client==2.130.0
+google-auth==2.29.0
+google-generativeai==0.5.4
+langchain-core==0.1.52
+langchain-google-genai==1.0.4
+load-dotenv==0.1.0
+llama-index
+google-generativeai
+pypdf
